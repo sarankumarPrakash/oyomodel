@@ -1,0 +1,87 @@
+
+.modal {
+    max-width: 350px;
+    margin: 1.75rem auto;
+    margin-left:56%;
+    margin-top: 8%;
+}
+
+.searchContainer__tagline {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 800;
+  line-height: 1.5;
+  margin: 16px 0;
+  text-align: center;
+  justify-content: space-between;
+}
+h1{
+  margin-bottom: 20px !important;
+}
+.searchContainer {
+  background: linear-gradient(135.46deg,#d11450,#df293a);
+  width: 100%;
+  padding: 10px 0 32px;
+  margin-bottom: 18px;
+  position: relative;
+  box-sizing: border-box;
+}
+.dflex{
+  padding-left: 18px;
+  width:400px;
+}
+.wrapper{
+  background-color: #fff;
+  display: inline-flex;
+  color:black ;
+  height :55px !important;
+}
+input, button, select, optgroup, textarea {
+  margin: 0;
+  margin-left:5px;
+  border: none;
+  width: 200px;
+  align-items: center;
+  padding-top: 5px;
+  font-size: 10px;
+  line-height: inherit;
+  font-weight: 400;
+  outline: none;
+}
+.nearme{
+  width:110px;
+  padding-top:15px;
+  font-weight: 400;
+  margin-left: 30px;
+}
+.datepicker{
+  padding:0 50px;
+  font-weight: 400;
+  padding-top:20px;
+  
+  border-right: 1px solid black;
+}
+.content{
+  border-right: 1px solid black;
+}
+.room{
+  color:black !important;
+  border-right: 1px solid black !important;
+}
+#dropdownMenuButton{
+  padding: 18px 18px;
+  width: 140px;
+  background: #1ab64f;
+  font-weight: 400;
+}
+#dropdownMenuButton:hover{
+  background: #128036;
+}
+.continue{
+  color: white;
+  margin-left: 209px;
+  font-size: large;
+}
+#Click{
+  padding-left:90px;
+}
